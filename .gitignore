@@ -1,4 +1,4 @@
-*.h5
-*.pkl
+.venv/
 __pycache__/
-.env
+.DS_Store
+lstm_model (1).h5
